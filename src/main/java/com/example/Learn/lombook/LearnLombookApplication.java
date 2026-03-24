@@ -32,5 +32,4 @@ public class LearnLombookApplication {
 		System.out.println(mahdi_home.getDescription());
 
 	}
-
 }
