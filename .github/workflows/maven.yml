@@ -9,11 +9,11 @@
 name: Java CI with Maven
 
 permissions:
-contents: read
-id-token: write
-actions: read
-packages: read
-dependency-graph: write
+ contents: read
+ id-token: write
+ actions: read
+ packages: read
+ dependency-graph: write
 
 
 on:
