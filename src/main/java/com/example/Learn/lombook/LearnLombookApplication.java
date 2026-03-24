@@ -26,6 +26,11 @@ public class LearnLombookApplication {
 
 		System.out.println(mahdi_home.getDescription());
 
+		mahdi_home=mahdi_home.toBuilder()
+				.description("koochik mikonim")
+				.build();
+		System.out.println(mahdi_home.getDescription());
+
 	}
 
 }
